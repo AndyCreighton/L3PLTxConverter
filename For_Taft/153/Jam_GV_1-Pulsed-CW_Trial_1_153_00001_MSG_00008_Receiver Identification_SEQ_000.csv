@@ -1,0 +1,3 @@
+TOTAL MSG COUNT,MSG 8 COUNT,THIS CSV MSG COUNT,Synch ,Message ID ,Data Size  (16 bit words),Flag ,Checksum ,RCVR ID ,Spare ,Checksum ,
+2,1,1,'0x81FF','0x8','0x1','0x8000','0xFDF8',6,0,'0xFFFA',
+6,2,2,'0x81FF','0x8','0x1','0x8000','0xFDF8',6,0,'0xFFFA',
